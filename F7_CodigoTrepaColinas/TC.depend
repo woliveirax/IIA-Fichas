@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1574359253 source:c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1478082415 c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\algoritmo.h
+
+1478082402 c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\funcao.h
+
+1478082615 c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\utils.h
+
+1478776028 source:c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\funcao.c
+	"funcao.h"
+
+1573753785 source:c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1478082571 source:c:\users\olympus\documents\1_semestre\iia\ficha_7\codigotrepacolinas\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
